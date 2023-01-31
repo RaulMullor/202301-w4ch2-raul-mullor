@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": ".husky",
+		"path": "../../../CDLM/base-react-ts-setup/.husky"
+	},
+	{
+		"name": "base-react-ts-setup",
+		"path": ".."
+	}
+],
+  "settings": {}
+}
